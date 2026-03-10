@@ -72,4 +72,8 @@
   margin: 15px 0;
 }
 
+.social-networks .label {
+    display: inline;
+}
+
 }
